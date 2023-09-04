@@ -76,7 +76,7 @@ This website is the starting point of a rebuild of that website, which is hosted
 - #### Mobile Home Page Wireframe
 
 ![Mobile Home Page Wireframe]
-![Energy Fitness](readme-images/wireframe-mobile.png)
+![Energy Fitness](assets/readme-images/wireframe-mobile.png)
 
 
 
@@ -84,11 +84,11 @@ This website is the starting point of a rebuild of that website, which is hosted
 - #### Tablet Home Page Wireframe
 
 ![Tablet Home Page Wireframe]
-![Energy Fitness](readme-images/wireframe-tablet.png)
+![Energy Fitness](assets/readme-images/wireframe-tablet.png)
 
 - #### Desktop Home Page Wireframe
 
-![Energy Fitness](readme-images/desktop.png)
+![Energy Fitness](assets/readme-images/wireframe.desktop.png)
 
 ## Features
 
